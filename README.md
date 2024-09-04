@@ -6,7 +6,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jorge</h1></summary>
   </ul>
 </div>
-### 👨🏻‍💻 &nbsp;About Me
+👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
