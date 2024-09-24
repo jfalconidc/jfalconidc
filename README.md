@@ -6,7 +6,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jorge</h1></summary>
   </ul>
 </div>
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header">
 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
