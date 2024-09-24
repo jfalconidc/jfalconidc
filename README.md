@@ -5,8 +5,8 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jorge</h1></summary>
   </ul>
-  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 </div>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
