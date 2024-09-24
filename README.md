@@ -19,6 +19,6 @@
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 <br><br>
 
- ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=hashfx&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@hashfx-Github-stats)
+ ![Jorge Falconi Diez Canseco GitHub stats](https://github-readme-stats.vercel.app/api?username=hashfx&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@hashfx-Github-stats)
 
 
