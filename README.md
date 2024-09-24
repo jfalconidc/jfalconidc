@@ -5,7 +5,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jorge</h1></summary>
   </ul>
-  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 </div>
 👨🏻‍💻 &nbsp;About Me
 
